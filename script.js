@@ -2024,7 +2024,6 @@ function updateControlLabels(fieldId) {
     const controlGroup = document.querySelector(
       `.text-input-group[data-field-id="${field.id}"]`
     );
-
     if (!controlGroup) return;
 
     const labels = controlGroup.querySelectorAll(".control-label");
@@ -2035,6 +2034,11 @@ function updateControlLabels(fieldId) {
       labels[2].textContent = `Right: ${field.right}%`;
       labels[3].textContent = `Rotation: ${field.rotation}°`;
       labels[4].textContent = `Size: ${field.fontSize}px`;
+    } else {
+      labels[0].textContent = `X: ${field.xPercent}%`;
+      labels[1].textContent = `Y: ${field.yPercent}%`;
+      labels[2].textContent = `Rotation: ${field.rotation}°`;
+      labels[3].textContent = `Size: ${field.fontSize}px`;
     }
   });
 }
