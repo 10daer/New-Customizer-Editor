@@ -1,0 +1,276 @@
+{
+  "category": "tools",
+  "templates": {
+    "1": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "TRANARE",
+          "xPercent": 36,
+          "yPercent": 53.5,
+          "rotation": 2,
+          "fontSize": 18
+        },
+        {
+          "id": "text2",
+          "content": "NOAHNOAH",
+          "xPercent": 57.5,
+          "right": 35,
+          "yPercent": 52,
+          "rotation": -5,
+          "fontSize": 14
+        }
+      ]
+    },
+    "2": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "TRANARE",
+          "xPercent": 36,
+          "yPercent": 51.5,
+          "rotation": 2,
+          "fontSize": 18
+        },
+        {
+          "id": "text2",
+          "content": "NOAHNOAH",
+          "xPercent": 56.5,
+          "right": 37,
+          "yPercent": 46,
+          "rotation": -10,
+          "fontSize": 14
+        },
+        {
+          "id": "text3",
+          "content": "VERAVERA",
+          "xPercent": 56,
+          "right": 43,
+          "yPercent": 55.5,
+          "rotation": 9,
+          "fontSize": 14
+        }
+      ]
+    },
+    "3": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "TRANARE",
+          "xPercent": 35.5,
+          "yPercent": 53,
+          "rotation": 2,
+          "fontSize": 18
+        },
+        {
+          "id": "text2",
+          "content": "NOAHNOAH",
+          "xPercent": 53,
+          "right": 43,
+          "yPercent": 41,
+          "rotation": -30,
+          "fontSize": 14
+        },
+        {
+          "id": "text3",
+          "content": "VERAVERA",
+          "xPercent": 56,
+          "right": 34,
+          "yPercent": 51,
+          "rotation": -4,
+          "fontSize": 14
+        },
+        {
+          "id": "text4",
+          "content": "HUGOHUGO",
+          "xPercent": 53,
+          "right": 42.5,
+          "yPercent": 62,
+          "rotation": 28,
+          "fontSize": 14
+        }
+      ]
+    },
+    "4": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "TRANARE",
+          "xPercent": 36.5,
+          "yPercent": 53.5,
+          "rotation": 2,
+          "fontSize": 18
+        },
+        {
+          "id": "text2",
+          "content": "NOAHNOAH",
+          "xPercent": 48.5,
+          "right": 46,
+          "yPercent": 36.5,
+          "rotation": -53,
+          "fontSize": 14
+        },
+        {
+          "id": "text3",
+          "content": "VERAVERA",
+          "xPercent": 56.5,
+          "right": 38,
+          "yPercent": 46,
+          "rotation": -14,
+          "fontSize": 14
+        },
+        {
+          "id": "text4",
+          "content": "HUGOHUHO",
+          "xPercent": 56.5,
+          "right": 43,
+          "yPercent": 56,
+          "rotation": 7,
+          "fontSize": 14
+        },
+        {
+          "id": "text5",
+          "content": "ALMALMA",
+          "xPercent": 50,
+          "right": 46,
+          "yPercent": 66.5,
+          "rotation": 48,
+          "fontSize": 14
+        }
+      ]
+    },
+    "5": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "TRANARE",
+          "xPercent": 36.5,
+          "yPercent": 53,
+          "rotation": 2,
+          "fontSize": 18
+        },
+        {
+          "id": "text2",
+          "content": "NOAHNOAH",
+          "xPercent": 44.5,
+          "right": 51,
+          "yPercent": 35,
+          "rotation": -76,
+          "fontSize": 14
+        },
+        {
+          "id": "text3",
+          "content": "VERAVERA",
+          "xPercent": 54.5,
+          "right": 42,
+          "yPercent": 41,
+          "rotation": -41,
+          "fontSize": 14
+        },
+        {
+          "id": "text4",
+          "content": "HUGOHUGO",
+          "xPercent": 56.5,
+          "right": 37,
+          "yPercent": 51.5,
+          "rotation": 0,
+          "fontSize": 14
+        },
+        {
+          "id": "text5",
+          "content": "ALMALMA",
+          "xPercent": 52.5,
+          "right": 43,
+          "yPercent": 62,
+          "rotation": 40,
+          "fontSize": 14
+        },
+        {
+          "id": "text6",
+          "content": "LIAMLIAM",
+          "xPercent": 44,
+          "right": 52,
+          "yPercent": 68,
+          "rotation": 72,
+          "fontSize": 14
+        }
+      ]
+    },
+    "6": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "TRANARE",
+          "xPercent": 36.5,
+          "yPercent": 52.5,
+          "rotation": 2,
+          "fontSize": 18
+        },
+        {
+          "id": "text2",
+          "content": "NOAHNOAH",
+          "xPercent": 39.5,
+          "right": 55.5,
+          "yPercent": 33.5,
+          "rotation": -89,
+          "fontSize": 14
+        },
+        {
+          "id": "text3",
+          "content": "VERAVERA",
+          "xPercent": 46,
+          "right": 31,
+          "yPercent": 29.5,
+          "rotation": -58,
+          "fontSize": 14
+        },
+        {
+          "id": "text4",
+          "content": "HUGOHUGO",
+          "xPercent": 56.5,
+          "right": 41,
+          "yPercent": 47,
+          "rotation": -19,
+          "fontSize": 14
+        },
+        {
+          "id": "text5",
+          "content": "ALMALMAA",
+          "xPercent": 56,
+          "right": 38,
+          "yPercent": 56,
+          "rotation": 7,
+          "fontSize": 14
+        },
+        {
+          "id": "text6",
+          "content": "LIAMLIAM",
+          "xPercent": 50,
+          "right": 45,
+          "yPercent": 65,
+          "rotation": 46,
+          "fontSize": 14
+        },
+        {
+          "id": "text7",
+          "content": "ALICEALICE",
+          "xPercent": 38.5,
+          "right": 56.5,
+          "yPercent": 68.5,
+          "rotation": 89,
+          "fontSize": 14
+        }
+      ]
+    }
+  },
+  "color": "Blue",
+  "imageSize": {
+    "width": 3000,
+    "height": 3000
+  },
+  "metadata": {
+    "exportDate": "2025-07-18T15:03:31.413Z",
+    "version": "1.0",
+    "publisher": "10daer"
+  }
+}
