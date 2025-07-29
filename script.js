@@ -14,6 +14,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 62.5,
           content: "DANIELSSON",
           xPercent: 28.5,
           yPercent: 54.5,
@@ -35,6 +36,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 62.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 54.5,
@@ -65,6 +67,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 62.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 54,
@@ -104,6 +107,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 62.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
@@ -133,6 +137,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 36.5,
           yPercent: 46.5,
+          right: 55,
           rotation: 18,
           fontSize: 15,
         },
@@ -151,6 +156,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 62.5,
           content: "DANIELSSON",
           xPercent: 29.5,
           yPercent: 55,
@@ -180,6 +186,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 37.5,
           yPercent: 46.5,
+          right: 55,
           rotation: 16,
           fontSize: 15,
         },
@@ -207,6 +214,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 62.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 54.5,
@@ -236,6 +244,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 37.5,
           yPercent: 46.5,
+          right: 55,
           rotation: 16,
           fontSize: 15,
         },
@@ -274,6 +283,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 67.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
@@ -295,6 +305,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 67.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
@@ -325,6 +336,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 67.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
@@ -364,6 +376,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 67.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
@@ -393,6 +406,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 35.5,
           yPercent: 46.5,
+          right: 60,
           rotation: 15,
           fontSize: 18,
         },
@@ -411,6 +425,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 67.5,
           content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
@@ -440,6 +455,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 35.5,
           yPercent: 46.5,
+          right: 60,
           rotation: 15,
           fontSize: 18,
         },
@@ -467,6 +483,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 67.5,
           content: "DANIELSSON",
           xPercent: 24,
           yPercent: 55.5,
@@ -496,6 +513,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 31.5,
           yPercent: 47,
+          right: 60,
           rotation: 17,
           fontSize: 15,
         },
@@ -534,6 +552,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 66,
           content: "DANIELSSON",
           xPercent: 25.5,
           yPercent: 55.5,
@@ -555,6 +574,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 66,
           content: "DANIELSSON",
           xPercent: 26,
           yPercent: 55.5,
@@ -585,6 +605,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 66,
           content: "DANIELSSON",
           xPercent: 26,
           yPercent: 55.5,
@@ -624,6 +645,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 66,
           content: "DANIELSSON",
           xPercent: 26.5,
           yPercent: 56,
@@ -653,6 +675,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 34,
           yPercent: 47.5,
+          right: 58,
           rotation: 17,
           fontSize: 15,
         },
@@ -671,6 +694,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 66,
           content: "DANIELSSON",
           xPercent: 26.5,
           yPercent: 56,
@@ -700,6 +724,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 34,
           yPercent: 47.5,
+          right: 58,
           rotation: 15,
           fontSize: 14,
         },
@@ -727,6 +752,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
+          right: 66,
           content: "DANIELSSON",
           xPercent: 26,
           yPercent: 56,
@@ -756,6 +782,7 @@ const defaultTemplates = {
           content: "DANIELSSON",
           xPercent: 34.5,
           yPercent: 47.5,
+          right: 58,
           rotation: 15,
           fontSize: 14,
         },
@@ -1026,8 +1053,9 @@ function createOverlay(field) {
   // Set position and rotation - note that transform-origin should be "left center" in CSS
   overlay.style.left = `${field.xPercent}%`;
   overlay.style.top = `${field.yPercent}%`;
-  if (field.right) {
-    overlay.style.right = `${field.right}%`;
+  overlay.style.right = `${field.right}%`;
+  if (field.id === "text2" || field.id === "text5") {
+    overlay.style.textAlign = "right";
   }
   overlay.style.transform =
     field.id === "text1"
