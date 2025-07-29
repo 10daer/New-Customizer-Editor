@@ -14,7 +14,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 28.5,
           yPercent: 54.5,
           rotation: 25,
@@ -35,7 +35,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 54.5,
           rotation: 24,
@@ -43,7 +43,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 39,
           right: 25.5,
           yPercent: 58.5,
@@ -65,7 +65,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 54,
           rotation: 25,
@@ -73,7 +73,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 40,
           right: 26.5,
           yPercent: 59.5,
@@ -82,7 +82,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 65.5,
           right: 42.5,
           yPercent: 55,
@@ -104,7 +104,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
           rotation: 23,
@@ -112,7 +112,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 39,
           right: 26.5,
           yPercent: 59,
@@ -121,7 +121,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 65,
           right: 39,
           yPercent: 55,
@@ -130,7 +130,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 36.5,
           yPercent: 46.5,
           rotation: 18,
@@ -151,7 +151,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29.5,
           yPercent: 55,
           rotation: 24,
@@ -159,7 +159,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 40,
           right: 27.5,
           yPercent: 60,
@@ -168,7 +168,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 65.5,
           right: 37,
           yPercent: 55,
@@ -177,7 +177,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 37.5,
           yPercent: 46.5,
           rotation: 16,
@@ -185,7 +185,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSSON",
+          content: "DANIELSSON5",
           xPercent: 65,
           right: 34,
           yPercent: 66.5,
@@ -207,7 +207,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 54.5,
           rotation: 24,
@@ -215,7 +215,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 41,
           right: 29,
           yPercent: 61,
@@ -224,7 +224,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 65.5,
           right: 37,
           yPercent: 55,
@@ -233,7 +233,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 37.5,
           yPercent: 46.5,
           rotation: 16,
@@ -241,7 +241,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSSON",
+          content: "DANIELSSON5",
           xPercent: 65,
           right: 34,
           yPercent: 67,
@@ -250,7 +250,7 @@ const defaultTemplates = {
         },
         {
           id: "text7",
-          content: "DANIELSSSON",
+          content: "DANIELSSON6",
           xPercent: 67,
           right: 29,
           yPercent: 40,
@@ -274,7 +274,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
           rotation: 22,
@@ -295,7 +295,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
           rotation: 22,
@@ -303,7 +303,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 40,
           right: 27,
           yPercent: 60,
@@ -325,7 +325,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
           rotation: 22,
@@ -333,7 +333,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 40,
           right: 27,
           yPercent: 60,
@@ -342,7 +342,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 65,
           right: 37,
           yPercent: 55,
@@ -364,7 +364,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
           rotation: 22,
@@ -372,7 +372,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 40,
           right: 27,
           yPercent: 60,
@@ -381,7 +381,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 65,
           right: 37,
           yPercent: 55,
@@ -390,7 +390,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 35.5,
           yPercent: 46.5,
           rotation: 15,
@@ -411,7 +411,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 29,
           yPercent: 55,
           rotation: 22,
@@ -419,7 +419,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 40,
           right: 27,
           yPercent: 60,
@@ -428,7 +428,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 65,
           right: 37,
           yPercent: 55,
@@ -437,7 +437,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 35.5,
           yPercent: 46.5,
           rotation: 15,
@@ -445,7 +445,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSSON",
+          content: "DANIELSSON5",
           xPercent: 65,
           right: 34,
           yPercent: 67,
@@ -467,7 +467,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 24,
           yPercent: 55.5,
           rotation: 22,
@@ -475,7 +475,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 33,
           right: 27.5,
           yPercent: 57,
@@ -484,7 +484,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 58.5,
           right: 36,
           yPercent: 54,
@@ -493,7 +493,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 31.5,
           yPercent: 47,
           rotation: 17,
@@ -501,7 +501,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSSON",
+          content: "DANIELSSON5",
           xPercent: 56,
           right: 37.5,
           yPercent: 69.5,
@@ -510,7 +510,7 @@ const defaultTemplates = {
         },
         {
           id: "text7",
-          content: "DANIELSSSON",
+          content: "DANIELSSON6",
           xPercent: 59.5,
           right: 28.5,
           yPercent: 38,
@@ -534,7 +534,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 25.5,
           yPercent: 55.5,
           rotation: 22,
@@ -555,7 +555,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 26,
           yPercent: 55.5,
           rotation: 23,
@@ -563,7 +563,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 35.5,
           right: 26.5,
           yPercent: 57.5,
@@ -585,7 +585,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 26,
           yPercent: 55.5,
           rotation: 20,
@@ -593,7 +593,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 33.5,
           right: 24.5,
           yPercent: 55.5,
@@ -602,7 +602,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 60.5,
           right: 36,
           yPercent: 54.5,
@@ -624,7 +624,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 26.5,
           yPercent: 56,
           rotation: 22,
@@ -632,7 +632,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 35.5,
           right: 27,
           yPercent: 58,
@@ -641,7 +641,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 60.5,
           right: 36.5,
           yPercent: 55,
@@ -650,7 +650,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 34,
           yPercent: 47.5,
           rotation: 17,
@@ -671,7 +671,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 26.5,
           yPercent: 56,
           rotation: 22,
@@ -679,7 +679,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 34.5,
           right: 24.5,
           yPercent: 57,
@@ -688,7 +688,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 60.5,
           right: 34,
           yPercent: 54.5,
@@ -697,7 +697,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 34,
           yPercent: 47.5,
           rotation: 15,
@@ -705,7 +705,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSSON",
+          content: "DANIELSSON5",
           xPercent: 60.5,
           right: 42,
           yPercent: 67,
@@ -727,7 +727,7 @@ const defaultTemplates = {
         },
         {
           id: "text2",
-          content: "DANIELSSSON",
+          content: "DANIELSSON",
           xPercent: 26,
           yPercent: 56,
           rotation: 23,
@@ -735,7 +735,7 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSSON",
+          content: "DANIELSSON2",
           xPercent: 35.5,
           right: 28,
           yPercent: 58.5,
@@ -744,7 +744,7 @@ const defaultTemplates = {
         },
         {
           id: "text4",
-          content: "DANIELSSSON",
+          content: "DANIELSSON3",
           xPercent: 61,
           right: 37.5,
           yPercent: 55,
@@ -753,7 +753,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSSON",
+          content: "DANIELSSON4",
           xPercent: 34.5,
           yPercent: 47.5,
           rotation: 15,
@@ -761,7 +761,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSSON",
+          content: "DANIELSSON5",
           xPercent: 56.5,
           right: 33,
           yPercent: 71,
@@ -770,7 +770,7 @@ const defaultTemplates = {
         },
         {
           id: "text7",
-          content: "DANIELSSSON",
+          content: "DANIELSSON6",
           xPercent: 62,
           right: 28,
           yPercent: 38.5,
