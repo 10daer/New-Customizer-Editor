@@ -1,0 +1,281 @@
+{
+  "templates": {
+    "1": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "MORFAR",
+          "xPercent": 58,
+          "yPercent": 38.5,
+          "right": 33,
+          "rotation": -76,
+          "fontSize": 32
+        },
+        {
+          "id": "text2",
+          "right": 68,
+          "content": "DANIELSSON",
+          "xPercent": 24,
+          "yPercent": 56,
+          "rotation": 22,
+          "fontSize": 16
+        }
+      ]
+    },
+    "2": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "MORFAR",
+          "xPercent": 57.5,
+          "yPercent": 39.5,
+          "right": 35,
+          "rotation": -76,
+          "fontSize": 32
+        },
+        {
+          "id": "text2",
+          "right": 67.5,
+          "content": "DANIELSSON",
+          "xPercent": 24,
+          "yPercent": 55.5,
+          "rotation": 22,
+          "fontSize": 16
+        },
+        {
+          "id": "text3",
+          "content": "DANIELSSON",
+          "xPercent": 33,
+          "right": 28,
+          "yPercent": 58.5,
+          "rotation": -56,
+          "fontSize": 16
+        }
+      ]
+    },
+    "3": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "MORFAR",
+          "xPercent": 56.5,
+          "yPercent": 40,
+          "right": 38,
+          "rotation": -76,
+          "fontSize": 32
+        },
+        {
+          "id": "text2",
+          "right": 71,
+          "content": "DANIELSSON",
+          "xPercent": 24.5,
+          "yPercent": 54.5,
+          "rotation": 22,
+          "fontSize": 16
+        },
+        {
+          "id": "text3",
+          "content": "DANIELSSON",
+          "xPercent": 32,
+          "right": 28.5,
+          "yPercent": 58.5,
+          "rotation": -57,
+          "fontSize": 16
+        },
+        {
+          "id": "text4",
+          "content": "DANIELSSON",
+          "xPercent": 58,
+          "right": 30,
+          "yPercent": 52.5,
+          "rotation": -25,
+          "fontSize": 15
+        }
+      ]
+    },
+    "4": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "MORFAR",
+          "xPercent": 56.5,
+          "yPercent": 40,
+          "right": 37,
+          "rotation": -76,
+          "fontSize": 32
+        },
+        {
+          "id": "text2",
+          "right": 82,
+          "content": "DANIELSSON",
+          "xPercent": 24.5,
+          "yPercent": 54,
+          "rotation": 22,
+          "fontSize": 16
+        },
+        {
+          "id": "text3",
+          "content": "DANIELSSON",
+          "xPercent": 32.5,
+          "right": 28.5,
+          "yPercent": 58.5,
+          "rotation": -56,
+          "fontSize": 16
+        },
+        {
+          "id": "text4",
+          "content": "DANIELSSON",
+          "xPercent": 58,
+          "right": 36,
+          "yPercent": 54,
+          "rotation": -22,
+          "fontSize": 15
+        },
+        {
+          "id": "text5",
+          "content": "DANIELSSON",
+          "xPercent": 29.5,
+          "yPercent": 47,
+          "right": 60,
+          "rotation": 17,
+          "fontSize": 16
+        }
+      ]
+    },
+    "5": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "MORFAR",
+          "xPercent": 57,
+          "yPercent": 39.5,
+          "right": 36,
+          "rotation": -76,
+          "fontSize": 32
+        },
+        {
+          "id": "text2",
+          "right": 68,
+          "content": "DANIELSSON",
+          "xPercent": 24,
+          "yPercent": 55.5,
+          "rotation": 22,
+          "fontSize": 16
+        },
+        {
+          "id": "text3",
+          "content": "DANIELSSON",
+          "xPercent": 32.5,
+          "right": 27,
+          "yPercent": 58,
+          "rotation": -56,
+          "fontSize": 16
+        },
+        {
+          "id": "text4",
+          "content": "DANIELSSON",
+          "xPercent": 58.5,
+          "right": 40,
+          "yPercent": 55,
+          "rotation": -24,
+          "fontSize": 15
+        },
+        {
+          "id": "text5",
+          "content": "DANIELSSON",
+          "xPercent": 31.5,
+          "yPercent": 47,
+          "right": 61.5,
+          "rotation": 16,
+          "fontSize": 17
+        },
+        {
+          "id": "text6",
+          "content": "DANIELSSON",
+          "xPercent": 55,
+          "right": 35,
+          "yPercent": 70.5,
+          "rotation": 68,
+          "fontSize": 15
+        }
+      ]
+    },
+    "6": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "MORFAR",
+          "xPercent": 57.5,
+          "yPercent": 39,
+          "right": 35,
+          "rotation": -76,
+          "fontSize": 32
+        },
+        {
+          "id": "text2",
+          "right": 67.5,
+          "content": "DANIELSSON",
+          "xPercent": 24,
+          "yPercent": 55.5,
+          "rotation": 22,
+          "fontSize": 15
+        },
+        {
+          "id": "text3",
+          "content": "DANIELSSON",
+          "xPercent": 33,
+          "right": 27.5,
+          "yPercent": 57,
+          "rotation": -57,
+          "fontSize": 15
+        },
+        {
+          "id": "text4",
+          "content": "DANIELSSON",
+          "xPercent": 58.5,
+          "right": 36,
+          "yPercent": 54,
+          "rotation": -26,
+          "fontSize": 15
+        },
+        {
+          "id": "text5",
+          "content": "DANIELSSON",
+          "xPercent": 31.5,
+          "yPercent": 47,
+          "right": 60,
+          "rotation": 17,
+          "fontSize": 15
+        },
+        {
+          "id": "text6",
+          "content": "DANIELSSON",
+          "xPercent": 56,
+          "right": 37.5,
+          "yPercent": 69.5,
+          "rotation": 74,
+          "fontSize": 15
+        },
+        {
+          "id": "text7",
+          "content": "DANIELSSON",
+          "xPercent": 59.5,
+          "right": 28.5,
+          "yPercent": 38,
+          "rotation": -35,
+          "fontSize": 14
+        }
+      ]
+    }
+  },
+  "color": "Yellow",
+  "imageSize": {
+    "width": 3000,
+    "height": 3000
+  },
+  "metadata": {
+    "exportDate": "2025-07-30T00:15:06.038Z",
+    "version": "1.0",
+    "publisher": "10daer"
+  }
+}
