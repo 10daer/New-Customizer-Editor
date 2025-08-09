@@ -4,7 +4,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 60.5,
           yPercent: 43,
           right: 36,
@@ -14,7 +14,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 62.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 28.5,
           yPercent: 54.5,
           rotation: 25,
@@ -26,7 +26,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 60,
           yPercent: 43,
           right: 38,
@@ -36,7 +36,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 62.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 29,
           yPercent: 54.5,
           rotation: 24,
@@ -44,9 +44,9 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 39,
-          right: 25.5,
+          right: 43.5,
           yPercent: 58.5,
           rotation: -60,
           fontSize: 15,
@@ -57,7 +57,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 60,
           yPercent: 43,
           right: 37.5,
@@ -67,7 +67,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 62.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 29,
           yPercent: 54,
           rotation: 25,
@@ -75,16 +75,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 40,
-          right: 26.5,
+          right: 44.5,
           yPercent: 59.5,
           rotation: -56,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 65.5,
           right: 42.5,
           yPercent: 55,
@@ -97,7 +97,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 60,
           yPercent: 43,
           right: 37.5,
@@ -107,7 +107,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 62.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 29,
           yPercent: 55,
           rotation: 23,
@@ -115,16 +115,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 39,
-          right: 26.5,
+          right: 44.5,
           yPercent: 59,
           rotation: -59,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 65,
           right: 39,
           yPercent: 55,
@@ -133,7 +133,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 36.5,
           yPercent: 46.5,
           right: 55,
@@ -146,7 +146,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 60.5,
           yPercent: 41.5,
           right: 37.5,
@@ -156,7 +156,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 62.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 29.5,
           yPercent: 55,
           rotation: 24,
@@ -164,16 +164,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 40,
-          right: 27.5,
+          right: 45.5,
           yPercent: 60,
           rotation: -58,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 65.5,
           right: 37,
           yPercent: 55,
@@ -182,7 +182,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 37.5,
           yPercent: 46.5,
           right: 55,
@@ -191,7 +191,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSON",
+          content: "Liam",
           xPercent: 65,
           right: 34,
           yPercent: 66.5,
@@ -204,7 +204,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 60.5,
           yPercent: 41.5,
           right: 37.5,
@@ -214,7 +214,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 62.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 29,
           yPercent: 54.5,
           rotation: 24,
@@ -222,16 +222,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 41,
-          right: 29,
+          right: 47,
           yPercent: 61,
           rotation: -56,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 65.5,
           right: 37,
           yPercent: 55,
@@ -240,7 +240,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 37.5,
           yPercent: 46.5,
           right: 55,
@@ -249,7 +249,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSON",
+          content: "Liam",
           xPercent: 65,
           right: 34,
           yPercent: 67,
@@ -258,7 +258,7 @@ const defaultTemplates = {
         },
         {
           id: "text7",
-          content: "DANIELSSON",
+          content: "Alice",
           xPercent: 67,
           right: 29,
           yPercent: 40,
@@ -273,7 +273,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 56.5,
           yPercent: 40.5,
           right: 36.5,
@@ -283,7 +283,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 67.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 22.5,
           yPercent: 55.5,
           rotation: 22,
@@ -295,7 +295,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 56.5,
           yPercent: 40,
           right: 38,
@@ -305,7 +305,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 67,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 22.5,
           yPercent: 55.5,
           rotation: 22,
@@ -313,9 +313,9 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 35,
-          right: 35,
+          right: 58,
           yPercent: 62,
           rotation: -56,
           fontSize: 16,
@@ -326,7 +326,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 56.5,
           yPercent: 40.5,
           right: 37,
@@ -336,7 +336,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 67.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 24,
           yPercent: 55.5,
           rotation: 22,
@@ -344,16 +344,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 32,
-          right: 28.5,
+          right: 51.5,
           yPercent: 57.5,
           rotation: -59,
           fontSize: 16,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 58.5,
           right: 38.5,
           yPercent: 54.5,
@@ -366,7 +366,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 56.5,
           yPercent: 40.5,
           right: 37,
@@ -376,7 +376,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 67.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 24,
           yPercent: 56,
           rotation: 22,
@@ -384,16 +384,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 32,
-          right: 27,
+          right: 50,
           yPercent: 57.5,
           rotation: -56,
           fontSize: 16,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 58,
           right: 39,
           yPercent: 55,
@@ -402,7 +402,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 29,
           yPercent: 47,
           right: 60,
@@ -415,7 +415,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 56.5,
           yPercent: 41.5,
           right: 37.5,
@@ -425,7 +425,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 67.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 23.5,
           yPercent: 55.5,
           rotation: 22,
@@ -433,16 +433,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 32.5,
-          right: 27,
+          right: 50,
           yPercent: 58,
           rotation: -56,
           fontSize: 16,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 58.5,
           right: 37,
           yPercent: 54.5,
@@ -451,7 +451,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 32,
           yPercent: 47.5,
           right: 60,
@@ -460,7 +460,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSON",
+          content: "Liam",
           xPercent: 54.5,
           right: 35,
           yPercent: 70.5,
@@ -473,7 +473,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 57.5,
           yPercent: 40.5,
           right: 34.5,
@@ -483,7 +483,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 67.5,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 24,
           yPercent: 55.5,
           rotation: 22,
@@ -491,16 +491,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 33,
-          right: 28,
+          right: 51,
           yPercent: 58,
           rotation: -56,
           fontSize: 16,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 58.5,
           right: 36,
           yPercent: 54,
@@ -509,7 +509,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 31.5,
           yPercent: 47,
           right: 60,
@@ -518,7 +518,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSON",
+          content: "Liam",
           xPercent: 56,
           right: 37.5,
           yPercent: 69.5,
@@ -527,7 +527,7 @@ const defaultTemplates = {
         },
         {
           id: "text7",
-          content: "DANIELSSON",
+          content: "Alice",
           xPercent: 59.5,
           right: 28.5,
           yPercent: 38,
@@ -542,7 +542,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 57,
           yPercent: 41.5,
           right: 38.5,
@@ -552,7 +552,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 66,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 25.5,
           yPercent: 55.5,
           rotation: 22,
@@ -564,7 +564,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 57.5,
           yPercent: 41.5,
           right: 38,
@@ -574,7 +574,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 66,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 26,
           yPercent: 55.5,
           rotation: 23,
@@ -582,9 +582,9 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 34.5,
-          right: 26,
+          right: 48,
           yPercent: 58,
           rotation: -58,
           fontSize: 15,
@@ -595,7 +595,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 57.5,
           yPercent: 41.5,
           right: 38.5,
@@ -605,7 +605,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 66,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 26,
           yPercent: 55.5,
           rotation: 20,
@@ -613,16 +613,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 33.5,
-          right: 24.5,
+          right: 46.5,
           yPercent: 56,
           rotation: -60,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 60.5,
           right: 36,
           yPercent: 54.5,
@@ -635,7 +635,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 62,
           yPercent: 38,
           right: 26,
@@ -645,7 +645,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 66,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 26.5,
           yPercent: 56,
           rotation: 22,
@@ -653,16 +653,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 35,
-          right: 27,
+          right: 49,
           yPercent: 58.5,
           rotation: -56,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 60.5,
           right: 36.5,
           yPercent: 55,
@@ -671,7 +671,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 34,
           yPercent: 47.5,
           right: 58,
@@ -684,7 +684,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 57.5,
           yPercent: 41,
           right: 38,
@@ -694,7 +694,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 66,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 26.5,
           yPercent: 56,
           rotation: 22,
@@ -702,16 +702,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 34.5,
-          right: 24.5,
+          right: 46.5,
           yPercent: 57,
           rotation: -57,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 60.5,
           right: 34,
           yPercent: 54.5,
@@ -720,7 +720,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 34,
           yPercent: 47.5,
           right: 58,
@@ -729,7 +729,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSON",
+          content: "Liam",
           xPercent: 60.5,
           right: 42,
           yPercent: 67,
@@ -742,7 +742,7 @@ const defaultTemplates = {
       textFields: [
         {
           id: "text1",
-          content: "MORFAR",
+          content: "MAMMA",
           xPercent: 58,
           yPercent: 41,
           right: 36.5,
@@ -752,7 +752,7 @@ const defaultTemplates = {
         {
           id: "text2",
           right: 66,
-          content: "DANIELSSON",
+          content: "Noah",
           xPercent: 26,
           yPercent: 56,
           rotation: 23,
@@ -760,16 +760,16 @@ const defaultTemplates = {
         },
         {
           id: "text3",
-          content: "DANIELSSON",
+          content: "Vera",
           xPercent: 35.5,
-          right: 28.5,
+          right: 50.5,
           yPercent: 59,
           rotation: -58,
           fontSize: 15,
         },
         {
           id: "text4",
-          content: "DANIELSSON",
+          content: "Hugo",
           xPercent: 61,
           right: 37.5,
           yPercent: 55,
@@ -778,7 +778,7 @@ const defaultTemplates = {
         },
         {
           id: "text5",
-          content: "DANIELSSON",
+          content: "Alma",
           xPercent: 34.5,
           yPercent: 47.5,
           right: 58,
@@ -787,7 +787,7 @@ const defaultTemplates = {
         },
         {
           id: "text6",
-          content: "DANIELSSON",
+          content: "Liam",
           xPercent: 56.5,
           right: 33,
           yPercent: 71,
@@ -796,7 +796,7 @@ const defaultTemplates = {
         },
         {
           id: "text7",
-          content: "DANIELSSON",
+          content: "Alice",
           xPercent: 61.5,
           right: 28,
           yPercent: 38.5,
