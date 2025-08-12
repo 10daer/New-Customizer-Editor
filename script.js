@@ -8,13 +8,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 61.5,
           yPercent: 37,
-          right: 36,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 65,
           content: "Noah",
           xPercent: 28,
           yPercent: 54,
@@ -30,13 +28,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 60,
           yPercent: 38.5,
-          right: 41,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 64.5,
           content: "Noah",
           xPercent: 29,
           yPercent: 54,
@@ -47,7 +43,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 41,
-          right: 46,
           yPercent: 73.5,
           rotation: -60,
           fontSize: 11,
@@ -61,13 +56,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 60,
           yPercent: 38,
-          right: 39.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 65,
           content: "Noah",
           xPercent: 28.5,
           yPercent: 53.5,
@@ -78,7 +71,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 48.5,
-          right: 48,
           yPercent: 68.5,
           rotation: -59,
           fontSize: 11,
@@ -87,7 +79,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 65.5,
-          right: 42.5,
           yPercent: 54.5,
           rotation: -24,
           fontSize: 11,
@@ -101,13 +92,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 60,
           yPercent: 38,
-          right: 39.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 65,
           content: "Noah",
           xPercent: 29,
           yPercent: 54.5,
@@ -118,7 +107,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 48,
-          right: 48.5,
           yPercent: 69.5,
           rotation: -59,
           fontSize: 11,
@@ -127,7 +115,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 65,
-          right: 39,
           yPercent: 55,
           rotation: -21,
           fontSize: 11,
@@ -137,7 +124,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 36.5,
           yPercent: 46,
-          right: 57,
           rotation: 18,
           fontSize: 11,
         },
@@ -150,13 +136,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 60,
           yPercent: 38,
-          right: 39.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 65,
           content: "Noah",
           xPercent: 29,
           yPercent: 54,
@@ -167,7 +151,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 44.5,
-          right: 47,
           yPercent: 72,
           rotation: -63,
           fontSize: 11,
@@ -176,7 +159,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 65.5,
-          right: 37,
           yPercent: 55,
           rotation: -24,
           fontSize: 11,
@@ -186,7 +168,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 37.5,
           yPercent: 46.5,
-          right: 57.5,
           rotation: 16,
           fontSize: 11,
         },
@@ -194,7 +175,6 @@ const defaultTemplates = {
           id: "text6",
           content: "Liam",
           xPercent: 65,
-          right: 34,
           yPercent: 67,
           rotation: 72,
           fontSize: 11,
@@ -208,13 +188,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 61,
           yPercent: 37,
-          right: 37.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 65,
           content: "Noah",
           xPercent: 27.5,
           yPercent: 54,
@@ -225,7 +203,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 48.5,
-          right: 49.5,
           yPercent: 71,
           rotation: -59,
           fontSize: 11,
@@ -234,7 +211,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 65.5,
-          right: 37,
           yPercent: 55,
           rotation: -24,
           fontSize: 11,
@@ -244,7 +220,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 37,
           yPercent: 46,
-          right: 57.5,
           rotation: 16,
           fontSize: 11,
         },
@@ -252,7 +227,6 @@ const defaultTemplates = {
           id: "text6",
           content: "Liam",
           xPercent: 65,
-          right: 34,
           yPercent: 67,
           rotation: 72,
           fontSize: 11,
@@ -261,7 +235,6 @@ const defaultTemplates = {
           id: "text7",
           content: "Alice",
           xPercent: 67.5,
-          right: 29,
           yPercent: 40,
           rotation: -33,
           fontSize: 11,
@@ -277,13 +250,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 56.5,
           yPercent: 36.5,
-          right: 37.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 70.5,
           content: "Noah",
           xPercent: 22.5,
           yPercent: 55,
@@ -299,13 +270,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 56.5,
           yPercent: 37,
-          right: 38.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 70,
           content: "Noah",
           xPercent: 23.5,
           yPercent: 55,
@@ -316,7 +285,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 41,
-          right: 53,
           yPercent: 70.5,
           rotation: -60,
           fontSize: 11,
@@ -330,13 +298,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 56.5,
           yPercent: 37,
-          right: 38,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 70,
           content: "Noah",
           xPercent: 24,
           yPercent: 55,
@@ -347,7 +313,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 40,
-          right: 52.5,
           yPercent: 71,
           rotation: -59,
           fontSize: 11,
@@ -356,7 +321,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 58.5,
-          right: 40,
           yPercent: 54.5,
           rotation: -26,
           fontSize: 11,
@@ -370,13 +334,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 57.5,
           yPercent: 36.5,
-          right: 35,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 71.5,
           content: "Noah",
           xPercent: 24,
           yPercent: 55,
@@ -387,7 +349,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 39,
-          right: 53,
           yPercent: 71.5,
           rotation: -60,
           fontSize: 11,
@@ -396,7 +357,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 58,
-          right: 38,
           yPercent: 54.5,
           rotation: -24,
           fontSize: 11,
@@ -406,7 +366,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 29,
           yPercent: 46.5,
-          right: 61,
           rotation: 17,
           fontSize: 11,
         },
@@ -419,13 +378,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 55.5,
           yPercent: 38,
-          right: 41,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 69.5,
           content: "Noah",
           xPercent: 23,
           yPercent: 55,
@@ -436,7 +393,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 41,
-          right: 52.5,
           yPercent: 70.5,
           rotation: -59,
           fontSize: 11,
@@ -445,7 +401,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 58.5,
-          right: 38,
           yPercent: 54.5,
           rotation: -27,
           fontSize: 11,
@@ -455,7 +410,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 31,
           yPercent: 47,
-          right: 62,
           rotation: 15,
           fontSize: 11,
         },
@@ -463,7 +417,6 @@ const defaultTemplates = {
           id: "text6",
           content: "Liam",
           xPercent: 58.5,
-          right: 47,
           yPercent: 68,
           rotation: 76,
           fontSize: 11,
@@ -477,13 +430,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 57.5,
           yPercent: 36,
-          right: 36,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 69.5,
           content: "Noah",
           xPercent: 26,
           yPercent: 55.5,
@@ -494,7 +445,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 42.5,
-          right: 53,
           yPercent: 69.5,
           rotation: -60,
           fontSize: 12,
@@ -503,7 +453,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 58.5,
-          right: 36,
           yPercent: 54,
           rotation: -26,
           fontSize: 11,
@@ -513,7 +462,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 33,
           yPercent: 47,
-          right: 62.5,
           rotation: 14,
           fontSize: 11,
         },
@@ -521,7 +469,6 @@ const defaultTemplates = {
           id: "text6",
           content: "Liam",
           xPercent: 56,
-          right: 37.5,
           yPercent: 69.5,
           rotation: 74,
           fontSize: 11,
@@ -530,7 +477,6 @@ const defaultTemplates = {
           id: "text7",
           content: "Alice",
           xPercent: 60,
-          right: 31.5,
           yPercent: 38.5,
           rotation: -38,
           fontSize: 11,
@@ -546,13 +492,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 57.5,
           yPercent: 37,
-          right: 38.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 68.5,
           content: "Noah",
           xPercent: 27,
           yPercent: 55.5,
@@ -568,13 +512,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 57.5,
           yPercent: 36.5,
-          right: 39,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 68,
           content: "Noah",
           xPercent: 23.5,
           yPercent: 54.5,
@@ -585,7 +527,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 38.5,
-          right: 49,
           yPercent: 73,
           rotation: -60,
           fontSize: 11,
@@ -599,13 +540,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 57.5,
           yPercent: 37,
-          right: 39.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 68,
           content: "Noah",
           xPercent: 26.5,
           yPercent: 55,
@@ -616,7 +555,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 42.5,
-          right: 51,
           yPercent: 70.5,
           rotation: -60,
           fontSize: 11,
@@ -625,7 +563,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 60.5,
-          right: 36,
           yPercent: 54.5,
           rotation: -22,
           fontSize: 11,
@@ -639,13 +576,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 62,
           yPercent: 33.5,
-          right: 27,
           rotation: -78,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 68.5,
           content: "Noah",
           xPercent: 26.5,
           yPercent: 55.5,
@@ -656,7 +591,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 44,
-          right: 52,
           yPercent: 70.5,
           rotation: -59,
           fontSize: 11,
@@ -665,7 +599,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 60.5,
-          right: 36.5,
           yPercent: 55,
           rotation: -26,
           fontSize: 11,
@@ -675,7 +608,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 33.5,
           yPercent: 47,
-          right: 60,
           rotation: 17,
           fontSize: 11,
         },
@@ -688,13 +620,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 58,
           yPercent: 36.5,
-          right: 38.5,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 68,
           content: "Noah",
           xPercent: 25,
           yPercent: 55,
@@ -705,7 +635,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 43.5,
-          right: 53,
           yPercent: 72,
           rotation: -60,
           fontSize: 11,
@@ -714,7 +643,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 60.5,
-          right: 34,
           yPercent: 54.5,
           rotation: -27,
           fontSize: 11,
@@ -724,7 +652,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 33,
           yPercent: 47,
-          right: 61.5,
           rotation: 15,
           fontSize: 11,
         },
@@ -732,7 +659,6 @@ const defaultTemplates = {
           id: "text6",
           content: "Liam",
           xPercent: 60.5,
-          right: 42,
           yPercent: 67,
           rotation: 73,
           fontSize: 11,
@@ -746,13 +672,11 @@ const defaultTemplates = {
           content: "Mamma",
           xPercent: 58,
           yPercent: 36.5,
-          right: 38,
           rotation: -76,
           fontSize: 21,
         },
         {
           id: "text2",
-          right: 68.5,
           content: "Noah",
           xPercent: 27.5,
           yPercent: 55.5,
@@ -763,7 +687,6 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 43.5,
-          right: 52,
           yPercent: 71,
           rotation: -58,
           fontSize: 11,
@@ -772,7 +695,6 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 60.5,
-          right: 37.5,
           yPercent: 55,
           rotation: -28,
           fontSize: 11,
@@ -782,7 +704,6 @@ const defaultTemplates = {
           content: "Alma",
           xPercent: 35,
           yPercent: 47,
-          right: 62,
           rotation: 15,
           fontSize: 11,
         },
@@ -790,7 +711,6 @@ const defaultTemplates = {
           id: "text6",
           content: "Liam",
           xPercent: 57,
-          right: 33,
           yPercent: 72,
           rotation: 73,
           fontSize: 11,
@@ -799,7 +719,6 @@ const defaultTemplates = {
           id: "text7",
           content: "Alice",
           xPercent: 62,
-          right: 27,
           yPercent: 38,
           rotation: -37,
           fontSize: 11,
@@ -863,7 +782,6 @@ function storeOriginalValues() {
     originalFieldValues[currentKids][field.id] = {
       xPercent: field.xPercent,
       yPercent: field.yPercent,
-      right: field.right || undefined,
       rotation: field.rotation,
       fontSize: field.fontSize,
     };
@@ -982,27 +900,7 @@ function createTextControls() {
             }', 'yPercent', 0.5)">+</button>
           </div>
         </div>
-        ${
-          field.right
-            ? `<div class="control-row">
-              <span class="control-label">Right: ${field.right}%</span>
-              <div class="control-buttons">
-                <button
-                  class="control-btn"
-                  onclick="adjustField('${field.id}', 'right', -0.5)"
-                >
-                  -
-                </button>
-                <button
-                  class="control-btn"
-                  onclick="adjustField('${field.id}', 'right', 0.5)"
-                >
-                  +
-                </button>
-              </div>
-            </div>`
-            : ""
-        }
+
         <div class="control-row">
           <span class="control-label">Rotation: ${field.rotation}°</span>
           <div class="control-buttons">
@@ -1053,52 +951,19 @@ function createOverlay(field) {
   // Set position and rotation - note that transform-origin should be "left center" in CSS
   overlay.style.left = `${field.xPercent}%`;
   overlay.style.top = `${field.yPercent}%`;
-  overlay.style.right = `${field.right}%`;
-  if (field.id === "text2" || field.id === "text3" || field.id === "text5") {
-    overlay.style.textAlign = "right";
-  }
-  // overlay.style.textAlign = "center";
-  overlay.style.transform =
-    field.id === "text1"
-      ? `translate(-100%, -50%) rotate(${field.rotation}deg)`
-      : `translate(0, -50%) rotate(${field.rotation}deg)`;
+  overlay.style.textAlign = "center";
+  overlay.style.transform = `translateX(-50%) rotate(${field.rotation}deg)`;
   overlay.style.fontSize = `${field.fontSize}px`;
 
   // Ensure consistent vertical alignment
   overlay.style.lineHeight = "1";
   overlay.style.display = "inline-block";
   overlay.style.verticalAlign = "middle";
-
-  // Apply dynamic font sizing based on text length
-  adjustFontSize(overlay, field.fontSize);
+  overlay.style.fontSize = `{field.fontSize}px`;
 
   overlay.addEventListener("click", () => selectOverlay(overlay));
 
   return overlay;
-}
-
-// Font adjustment function similar to backend logic
-function adjustFontSize(overlay, baseFontSize) {
-  overlay.style.fontSize = `{baseFontSize}px`;
-  // const charCount = overlay.textContent.trim().length;
-  // const maxChars = MAX_PERSONALIZATION_CHARS; // 10 characters
-
-  // // Check if device is mobile
-  // const isMobile = window.innerWidth <= 768;
-
-  // // Different scaling factors for mobile and desktop
-  // const minScaleFactor = isMobile ? 0.4 : 0.6;
-
-  // // Linearly scale down from 100% to minScaleFactor as char count goes from 1 to maxChars
-  // const scaleFactor =
-  //   1 - ((charCount - 1) / (maxChars - 1)) * (1 - minScaleFactor);
-  // const adjustedFontSize = baseFontSize * scaleFactor;
-
-  // // Ensure the font size doesn't go below the minimum scale
-  // overlay.style.fontSize = `${Math.max(
-  //   adjustedFontSize,
-  //   baseFontSize * minScaleFactor
-  // )}px`;
 }
 
 function selectOverlay(overlay) {
@@ -1136,8 +1001,6 @@ function updateFieldContent(fieldId, newContent) {
     const overlay = textOverlays[fieldId];
     if (overlay) {
       overlay.textContent = newContent;
-      // Reapply font size adjustment when content changes
-      adjustFontSize(overlay, field.fontSize);
     }
   }
 }
@@ -1168,12 +1031,6 @@ function adjustField(fieldId, property, delta) {
       const minY = Math.max(0, originalY - 15);
       const maxY = Math.min(100, originalY + 15);
       newValue = Math.max(minY, Math.min(maxY, newValue));
-      break;
-    case "right":
-      const originalRight = originalValues.right;
-      const minRight = Math.max(0, originalRight - 25);
-      const maxRight = Math.min(100, originalRight + 25);
-      newValue = Math.max(minRight, Math.min(maxRight, newValue));
       break;
     case "rotation":
       const originalRot = originalValues.rotation;
@@ -1208,15 +1065,10 @@ function updateOverlayStyle(fieldId) {
   if (overlay) {
     overlay.style.left = `${field.xPercent}%`;
     overlay.style.top = `${field.yPercent}%`;
-    overlay.style.right = `${field.right}%`;
-    overlay.style.transform =
-      field.id === "text1"
-        ? `translate(-100%, -50%) rotate(${field.rotation}deg)`
-        : `translate(0, -50%) rotate(${field.rotation}deg)`;
+    overlay.style.transform = `translateX(-50%) rotate(${field.rotation}deg)`;
 
     // Update font size and apply dynamic sizing
     overlay.style.fontSize = `${field.fontSize}px`;
-    adjustFontSize(overlay, field.fontSize);
   }
 }
 
@@ -1235,14 +1087,14 @@ function updateControlLabels(fieldId) {
     if (labels.length >= 5) {
       labels[0].textContent = `X: ${field.xPercent}%`;
       labels[1].textContent = `Y: ${field.yPercent}%`;
-      labels[2].textContent = `Right: ${field.right}%`;
-      labels[3].textContent = `Rotation: ${field.rotation}°`;
-      labels[4].textContent = `Size: ${field.fontSize}px`;
+      labels[2].textContent = `Rotation: ${field.rotation}°`;
+      labels[3].textContent = `Size: ${field.fontSize}px`;
+      labels[2].textContent = `Size: ${field.fontSize}px`;
     } else {
       labels[0].textContent = `X: ${field.xPercent}%`;
       labels[1].textContent = `Y: ${field.yPercent}%`;
       labels[2].textContent = `Rotation: ${field.rotation}°`;
-      labels[3].textContent = `Size: ${field.fontSize}px`;
+      labels[2].textContent = `Size: ${field.fontSize}px`;
     }
   });
 }

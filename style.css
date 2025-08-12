@@ -197,11 +197,14 @@ h1 {
 
 .text-overlay {
   position: absolute;
-  line-height: 1;
+  line-height: 10px;
+  display: inline-block;
+  height: 10px;
+  white-space: nowrap;
+  transform-origin: center center;
   color: #000000;
   font-size: clamp(8px, 1.25vw, 14px);
   font-family: "Kalam", serif;
-  white-space: nowrap;
   transition: all 0.3s ease;
   cursor: move;
   letter-spacing: 0em;
