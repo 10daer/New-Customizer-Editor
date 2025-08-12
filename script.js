@@ -1054,10 +1054,10 @@ function createOverlay(field) {
   overlay.style.left = `${field.xPercent}%`;
   overlay.style.top = `${field.yPercent}%`;
   overlay.style.right = `${field.right}%`;
-  // if (field.id === "text2" || field.id === "text3" || field.id === "text5") {
-  //   overlay.style.textAlign = "right";
-  // }
-  overlay.style.textAlign = "center";
+  if (field.id === "text2" || field.id === "text3" || field.id === "text5") {
+    overlay.style.textAlign = "right";
+  }
+  // overlay.style.textAlign = "center";
   overlay.style.transform =
     field.id === "text1"
       ? `translate(-100%, -50%) rotate(${field.rotation}deg)`
