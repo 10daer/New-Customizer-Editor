@@ -1,0 +1,254 @@
+{
+  "templates": {
+    "1": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "Mamma",
+          "xPercent": 53,
+          "yPercent": 34,
+          "rotation": -76,
+          "fontSize": 24
+        },
+        {
+          "id": "text2",
+          "content": "Noah",
+          "xPercent": 28,
+          "yPercent": 55,
+          "rotation": 22,
+          "fontSize": 13
+        }
+      ]
+    },
+    "2": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "Mamma",
+          "xPercent": 54,
+          "yPercent": 34,
+          "rotation": -76,
+          "fontSize": 24
+        },
+        {
+          "id": "text2",
+          "content": "Noah",
+          "xPercent": 28,
+          "yPercent": 54,
+          "rotation": 22,
+          "fontSize": 13
+        },
+        {
+          "id": "text3",
+          "content": "Vera",
+          "xPercent": 44,
+          "yPercent": 69,
+          "rotation": -60,
+          "fontSize": 13
+        }
+      ]
+    },
+    "3": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "Mamma",
+          "xPercent": 54,
+          "yPercent": 34,
+          "rotation": -76,
+          "fontSize": 24
+        },
+        {
+          "id": "text2",
+          "content": "Noah",
+          "xPercent": 28,
+          "yPercent": 54,
+          "rotation": 22,
+          "fontSize": 13
+        },
+        {
+          "id": "text3",
+          "content": "Vera",
+          "xPercent": 44,
+          "yPercent": 69,
+          "rotation": -59,
+          "fontSize": 13
+        },
+        {
+          "id": "text4",
+          "content": "Hugo",
+          "xPercent": 62,
+          "yPercent": 52,
+          "rotation": -21,
+          "fontSize": 13
+        }
+      ]
+    },
+    "4": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "Mamma",
+          "xPercent": 54,
+          "yPercent": 34,
+          "rotation": -76,
+          "fontSize": 24
+        },
+        {
+          "id": "text2",
+          "content": "Noah",
+          "xPercent": 28,
+          "yPercent": 55,
+          "rotation": 22,
+          "fontSize": 13
+        },
+        {
+          "id": "text3",
+          "content": "Vera",
+          "xPercent": 44,
+          "yPercent": 70,
+          "rotation": -60,
+          "fontSize": 13
+        },
+        {
+          "id": "text4",
+          "content": "Hugo",
+          "xPercent": 62,
+          "yPercent": 53,
+          "rotation": -23,
+          "fontSize": 13
+        },
+        {
+          "id": "text5",
+          "content": "Alma",
+          "xPercent": 36,
+          "yPercent": 46,
+          "rotation": 17,
+          "fontSize": 13
+        }
+      ]
+    },
+    "5": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "Mamma",
+          "xPercent": 54,
+          "yPercent": 33,
+          "rotation": -76,
+          "fontSize": 24
+        },
+        {
+          "id": "text2",
+          "content": "Noah",
+          "xPercent": 28,
+          "yPercent": 54,
+          "rotation": 22,
+          "fontSize": 13
+        },
+        {
+          "id": "text3",
+          "content": "Vera",
+          "xPercent": 44,
+          "yPercent": 70,
+          "rotation": -59,
+          "fontSize": 13
+        },
+        {
+          "id": "text4",
+          "content": "Hugo",
+          "xPercent": 62,
+          "yPercent": 53,
+          "rotation": -25,
+          "fontSize": 13
+        },
+        {
+          "id": "text5",
+          "content": "Alma",
+          "xPercent": 36,
+          "yPercent": 46,
+          "rotation": 16,
+          "fontSize": 14
+        },
+        {
+          "id": "text6",
+          "content": "Liam",
+          "xPercent": 59,
+          "yPercent": 67,
+          "rotation": 76,
+          "fontSize": 13
+        }
+      ]
+    },
+    "6": {
+      "textFields": [
+        {
+          "id": "text1",
+          "content": "Mamma",
+          "xPercent": 54,
+          "yPercent": 34,
+          "rotation": -76,
+          "fontSize": 24
+        },
+        {
+          "id": "text2",
+          "content": "Noah",
+          "xPercent": 28,
+          "yPercent": 54,
+          "rotation": 22,
+          "fontSize": 13
+        },
+        {
+          "id": "text3",
+          "content": "Vera",
+          "xPercent": 44,
+          "yPercent": 70,
+          "rotation": -60,
+          "fontSize": 13
+        },
+        {
+          "id": "text4",
+          "content": "Hugo",
+          "xPercent": 62,
+          "yPercent": 53,
+          "rotation": -26,
+          "fontSize": 13
+        },
+        {
+          "id": "text5",
+          "content": "Alma",
+          "xPercent": 36,
+          "yPercent": 46,
+          "rotation": 14,
+          "fontSize": 13
+        },
+        {
+          "id": "text6",
+          "content": "Liam",
+          "xPercent": 59,
+          "yPercent": 68,
+          "rotation": 74,
+          "fontSize": 13
+        },
+        {
+          "id": "text7",
+          "content": "Alice",
+          "xPercent": 63,
+          "yPercent": 39,
+          "rotation": -31,
+          "fontSize": 13
+        }
+      ]
+    }
+  },
+  "color": "Red",
+  "imageSize": {
+    "width": 3000,
+    "height": 3000
+  },
+  "metadata": {
+    "exportDate": "2025-08-12T22:34:04.896Z",
+    "version": "1.0",
+    "publisher": "10daer"
+  }
+}
