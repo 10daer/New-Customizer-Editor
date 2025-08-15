@@ -6,7 +6,7 @@ const defaultTemplates = {
         {
           id: "text1",
           content: "Mamma",
-          xPercent: 60,
+          xPercent: 59.5,
           yPercent: 34,
           rotation: -76,
           fontSize: 24,
@@ -15,9 +15,9 @@ const defaultTemplates = {
           id: "text2",
           content: "Noah",
           xPercent: 33,
-          yPercent: 54,
+          yPercent: 53.5,
           rotation: 25,
-          fontSize: 12,
+          fontSize: 13,
         },
       ],
     },
@@ -34,8 +34,8 @@ const defaultTemplates = {
         {
           id: "text2",
           content: "Noah",
-          xPercent: 33,
-          yPercent: 53,
+          xPercent: 33.5,
+          yPercent: 53.5,
           rotation: 24,
           fontSize: 13,
         },
@@ -43,13 +43,93 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 50,
-          yPercent: 69,
-          rotation: -61,
+          yPercent: 68.5,
+          rotation: -60,
           fontSize: 13,
         },
       ],
     },
     3: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 59.5,
+          yPercent: 34,
+          rotation: -76,
+          fontSize: 24,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 34,
+          yPercent: 53.5,
+          rotation: 25,
+          fontSize: 13,
+        },
+        {
+          id: "text3",
+          content: "Vera",
+          xPercent: 49.5,
+          yPercent: 69,
+          rotation: -59,
+          fontSize: 13,
+        },
+        {
+          id: "text4",
+          content: "Hugo",
+          xPercent: 68.5,
+          yPercent: 52.5,
+          rotation: -23,
+          fontSize: 13,
+        },
+      ],
+    },
+    4: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 59.5,
+          yPercent: 34,
+          rotation: -76,
+          fontSize: 24,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 33,
+          yPercent: 53.5,
+          rotation: 24,
+          fontSize: 13,
+        },
+        {
+          id: "text3",
+          content: "Vera",
+          xPercent: 49,
+          yPercent: 69.5,
+          rotation: -59,
+          fontSize: 13,
+        },
+        {
+          id: "text4",
+          content: "Hugo",
+          xPercent: 69,
+          yPercent: 52.5,
+          rotation: -25,
+          fontSize: 13,
+        },
+        {
+          id: "text5",
+          content: "Alma",
+          xPercent: 41,
+          yPercent: 45.5,
+          rotation: 18,
+          fontSize: 13,
+        },
+      ],
+    },
+    5: {
       textFields: [
         {
           id: "text1",
@@ -62,87 +142,7 @@ const defaultTemplates = {
         {
           id: "text2",
           content: "Noah",
-          xPercent: 33,
-          yPercent: 53,
-          rotation: 25,
-          fontSize: 13,
-        },
-        {
-          id: "text3",
-          content: "Vera",
-          xPercent: 49,
-          yPercent: 69,
-          rotation: -59,
-          fontSize: 13,
-        },
-        {
-          id: "text4",
-          content: "Hugo",
-          xPercent: 69,
-          yPercent: 52,
-          rotation: -24,
-          fontSize: 12,
-        },
-      ],
-    },
-    4: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 60,
-          yPercent: 34,
-          rotation: -76,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 33,
-          yPercent: 53,
-          rotation: 24,
-          fontSize: 13,
-        },
-        {
-          id: "text3",
-          content: "Vera",
-          xPercent: 49,
-          yPercent: 69,
-          rotation: -58,
-          fontSize: 13,
-        },
-        {
-          id: "text4",
-          content: "Hugo",
-          xPercent: 69,
-          yPercent: 53,
-          rotation: -21,
-          fontSize: 13,
-        },
-        {
-          id: "text5",
-          content: "Alma",
-          xPercent: 41,
-          yPercent: 45,
-          rotation: 18,
-          fontSize: 13,
-        },
-      ],
-    },
-    5: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 61,
-          yPercent: 32,
-          rotation: -76,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 33,
+          xPercent: 34,
           yPercent: 54,
           rotation: 24,
           fontSize: 13,
@@ -150,33 +150,33 @@ const defaultTemplates = {
         {
           id: "text3",
           content: "Vera",
-          xPercent: 49,
-          yPercent: 70,
-          rotation: -61,
+          xPercent: 49.5,
+          yPercent: 69.5,
+          rotation: -59,
           fontSize: 13,
         },
         {
           id: "text4",
           content: "Hugo",
           xPercent: 69,
-          yPercent: 52,
+          yPercent: 52.5,
           rotation: -24,
-          fontSize: 12,
+          fontSize: 13,
         },
         {
           id: "text5",
           content: "Alma",
-          xPercent: 41,
-          yPercent: 45,
-          rotation: 16,
+          xPercent: 42,
+          yPercent: 46,
+          rotation: 14,
           fontSize: 13,
         },
         {
           id: "text6",
           content: "Liam",
-          xPercent: 66,
-          yPercent: 68,
-          rotation: 73,
+          xPercent: 66.5,
+          yPercent: 69,
+          rotation: 72,
           fontSize: 13,
         },
       ],
@@ -186,16 +186,16 @@ const defaultTemplates = {
         {
           id: "text1",
           content: "Mamma",
-          xPercent: 61,
+          xPercent: 60,
           yPercent: 34,
-          rotation: -76,
+          rotation: -78,
           fontSize: 24,
         },
         {
           id: "text2",
           content: "Noah",
-          xPercent: 33,
-          yPercent: 53,
+          xPercent: 33.5,
+          yPercent: 53.5,
           rotation: 24,
           fontSize: 13,
         },
@@ -211,15 +211,15 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 69,
-          yPercent: 52,
+          yPercent: 52.5,
           rotation: -24,
-          fontSize: 12,
+          fontSize: 13,
         },
         {
           id: "text5",
           content: "Alma",
           xPercent: 41,
-          yPercent: 45,
+          yPercent: 45.5,
           rotation: 16,
           fontSize: 13,
         },
@@ -235,9 +235,251 @@ const defaultTemplates = {
           id: "text7",
           content: "Alice",
           xPercent: 70,
-          yPercent: 38,
-          rotation: -33,
-          fontSize: 12,
+          yPercent: 38.5,
+          rotation: -31,
+          fontSize: 13,
+        },
+      ],
+    },
+  },
+  White: {
+    1: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 55,
+          yPercent: 34,
+          rotation: -76,
+          fontSize: 24,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 29.5,
+          yPercent: 54.5,
+          rotation: 23,
+          fontSize: 13,
+        },
+      ],
+    },
+    2: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 55.5,
+          yPercent: 34,
+          rotation: -76,
+          fontSize: 24,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 29.5,
+          yPercent: 54.5,
+          rotation: 23,
+          fontSize: 13,
+        },
+        {
+          id: "text3",
+          content: "Vera",
+          xPercent: 46,
+          yPercent: 70,
+          rotation: -60,
+          fontSize: 13,
+        },
+      ],
+    },
+    3: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 55.5,
+          yPercent: 34,
+          rotation: -76,
+          fontSize: 23,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 29.5,
+          yPercent: 54,
+          rotation: 20,
+          fontSize: 13,
+        },
+        {
+          id: "text3",
+          content: "Vera",
+          xPercent: 45.5,
+          yPercent: 70,
+          rotation: -60,
+          fontSize: 13,
+        },
+        {
+          id: "text4",
+          content: "Hugo",
+          xPercent: 64,
+          yPercent: 52.5,
+          rotation: -29,
+          fontSize: 13,
+        },
+      ],
+    },
+    4: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 55,
+          yPercent: 34,
+          rotation: -77,
+          fontSize: 24,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 30,
+          yPercent: 55,
+          rotation: 22,
+          fontSize: 13,
+        },
+        {
+          id: "text3",
+          content: "Vera",
+          xPercent: 45.5,
+          yPercent: 70,
+          rotation: -63,
+          fontSize: 13,
+        },
+        {
+          id: "text4",
+          content: "Hugo",
+          xPercent: 63.5,
+          yPercent: 53,
+          rotation: -24,
+          fontSize: 13,
+        },
+        {
+          id: "text5",
+          content: "Alma",
+          xPercent: 37,
+          yPercent: 46,
+          rotation: 17,
+          fontSize: 13,
+        },
+      ],
+    },
+    5: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 55.5,
+          yPercent: 34,
+          rotation: -76,
+          fontSize: 24,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 29.5,
+          yPercent: 54.5,
+          rotation: 22,
+          fontSize: 13,
+        },
+        {
+          id: "text3",
+          content: "Vera",
+          xPercent: 45.5,
+          yPercent: 70.5,
+          rotation: -60,
+          fontSize: 13,
+        },
+        {
+          id: "text4",
+          content: "Hugo",
+          xPercent: 64,
+          yPercent: 53,
+          rotation: -26,
+          fontSize: 13,
+        },
+        {
+          id: "text5",
+          content: "Alma",
+          xPercent: 38,
+          yPercent: 46.5,
+          rotation: 15,
+          fontSize: 13,
+        },
+        {
+          id: "text6",
+          content: "Liam",
+          xPercent: 61,
+          yPercent: 68,
+          rotation: 73,
+          fontSize: 13,
+        },
+      ],
+    },
+    6: {
+      textFields: [
+        {
+          id: "text1",
+          content: "Mamma",
+          xPercent: 56,
+          yPercent: 34,
+          rotation: -76,
+          fontSize: 24,
+        },
+        {
+          id: "text2",
+          content: "Noah",
+          xPercent: 30,
+          yPercent: 55,
+          rotation: 21,
+          fontSize: 13,
+        },
+        {
+          id: "text3",
+          content: "Vera",
+          xPercent: 46,
+          yPercent: 70,
+          rotation: -58,
+          fontSize: 13,
+        },
+        {
+          id: "text4",
+          content: "Hugo",
+          xPercent: 64.5,
+          yPercent: 52.5,
+          rotation: -28,
+          fontSize: 13,
+        },
+        {
+          id: "text5",
+          content: "Alma",
+          xPercent: 38,
+          yPercent: 46,
+          rotation: 15,
+          fontSize: 13,
+        },
+        {
+          id: "text6",
+          content: "Liam",
+          xPercent: 61,
+          yPercent: 68,
+          rotation: 73,
+          fontSize: 13,
+        },
+        {
+          id: "text7",
+          content: "Alice",
+          xPercent: 65.5,
+          yPercent: 38.5,
+          rotation: -34,
+          fontSize: 13,
         },
       ],
     },
@@ -256,8 +498,8 @@ const defaultTemplates = {
         {
           id: "text2",
           content: "Noah",
-          xPercent: 28,
-          yPercent: 55,
+          xPercent: 27.5,
+          yPercent: 54.5,
           rotation: 22,
           fontSize: 13,
         },
@@ -285,7 +527,7 @@ const defaultTemplates = {
           id: "text3",
           content: "Vera",
           xPercent: 44,
-          yPercent: 69,
+          yPercent: 70,
           rotation: -60,
           fontSize: 13,
         },
@@ -296,8 +538,8 @@ const defaultTemplates = {
         {
           id: "text1",
           content: "Mamma",
-          xPercent: 54,
-          yPercent: 34,
+          xPercent: 53,
+          yPercent: 35,
           rotation: -76,
           fontSize: 24,
         },
@@ -321,8 +563,8 @@ const defaultTemplates = {
           id: "text4",
           content: "Hugo",
           xPercent: 62,
-          yPercent: 52,
-          rotation: -21,
+          yPercent: 52.5,
+          rotation: -30,
           fontSize: 13,
         },
       ],
@@ -332,7 +574,7 @@ const defaultTemplates = {
         {
           id: "text1",
           content: "Mamma",
-          xPercent: 54,
+          xPercent: 53.5,
           yPercent: 34,
           rotation: -76,
           fontSize: 24,
@@ -348,7 +590,7 @@ const defaultTemplates = {
         {
           id: "text3",
           content: "Vera",
-          xPercent: 44,
+          xPercent: 43.5,
           yPercent: 70,
           rotation: -60,
           fontSize: 13,
@@ -365,7 +607,7 @@ const defaultTemplates = {
           id: "text5",
           content: "Alma",
           xPercent: 36,
-          yPercent: 46,
+          yPercent: 46.5,
           rotation: 17,
           fontSize: 13,
         },
@@ -409,9 +651,9 @@ const defaultTemplates = {
           id: "text5",
           content: "Alma",
           xPercent: 36,
-          yPercent: 46,
+          yPercent: 46.5,
           rotation: 16,
-          fontSize: 14,
+          fontSize: 13,
         },
         {
           id: "text6",
@@ -428,7 +670,7 @@ const defaultTemplates = {
         {
           id: "text1",
           content: "Mamma",
-          xPercent: 54,
+          xPercent: 53.5,
           yPercent: 34,
           rotation: -76,
           fontSize: 24,
@@ -436,15 +678,15 @@ const defaultTemplates = {
         {
           id: "text2",
           content: "Noah",
-          xPercent: 28,
-          yPercent: 54,
+          xPercent: 27.5,
+          yPercent: 54.5,
           rotation: 22,
           fontSize: 13,
         },
         {
           id: "text3",
           content: "Vera",
-          xPercent: 44,
+          xPercent: 43.5,
           yPercent: 70,
           rotation: -60,
           fontSize: 13,
@@ -452,7 +694,7 @@ const defaultTemplates = {
         {
           id: "text4",
           content: "Hugo",
-          xPercent: 62,
+          xPercent: 61.5,
           yPercent: 53,
           rotation: -26,
           fontSize: 13,
@@ -479,248 +721,6 @@ const defaultTemplates = {
           xPercent: 63,
           yPercent: 39,
           rotation: -31,
-          fontSize: 13,
-        },
-      ],
-    },
-  },
-  White: {
-    1: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 56,
-          yPercent: 34,
-          rotation: -76,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 30,
-          yPercent: 55,
-          rotation: 23,
-          fontSize: 13,
-        },
-      ],
-    },
-    2: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 56,
-          yPercent: 34,
-          rotation: -76,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 30,
-          yPercent: 55,
-          rotation: 23,
-          fontSize: 13,
-        },
-        {
-          id: "text3",
-          content: "Vera",
-          xPercent: 46,
-          yPercent: 70,
-          rotation: -60,
-          fontSize: 13,
-        },
-      ],
-    },
-    3: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 56,
-          yPercent: 34,
-          rotation: -76,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 30,
-          yPercent: 55,
-          rotation: 22,
-          fontSize: 13,
-        },
-        {
-          id: "text3",
-          content: "Vera",
-          xPercent: 46,
-          yPercent: 70,
-          rotation: -59,
-          fontSize: 13,
-        },
-        {
-          id: "text4",
-          content: "Hugo",
-          xPercent: 64,
-          yPercent: 53,
-          rotation: -22,
-          fontSize: 13,
-        },
-      ],
-    },
-    4: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 55,
-          yPercent: 35,
-          rotation: -78,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 30,
-          yPercent: 55,
-          rotation: 24,
-          fontSize: 13,
-        },
-        {
-          id: "text3",
-          content: "Vera",
-          xPercent: 45,
-          yPercent: 70,
-          rotation: -59,
-          fontSize: 13,
-        },
-        {
-          id: "text4",
-          content: "Hugo",
-          xPercent: 64,
-          yPercent: 53,
-          rotation: -26,
-          fontSize: 13,
-        },
-        {
-          id: "text5",
-          content: "Alma",
-          xPercent: 38,
-          yPercent: 46,
-          rotation: 17,
-          fontSize: 13,
-        },
-      ],
-    },
-    5: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 56,
-          yPercent: 34,
-          rotation: -76,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 30,
-          yPercent: 55,
-          rotation: 22,
-          fontSize: 13,
-        },
-        {
-          id: "text3",
-          content: "Vera",
-          xPercent: 46,
-          yPercent: 70,
-          rotation: -60,
-          fontSize: 13,
-        },
-        {
-          id: "text4",
-          content: "Hugo",
-          xPercent: 65,
-          yPercent: 53,
-          rotation: -27,
-          fontSize: 13,
-        },
-        {
-          id: "text5",
-          content: "Alma",
-          xPercent: 38,
-          yPercent: 46,
-          rotation: 15,
-          fontSize: 13,
-        },
-        {
-          id: "text6",
-          content: "Liam",
-          xPercent: 61,
-          yPercent: 69,
-          rotation: 73,
-          fontSize: 13,
-        },
-      ],
-    },
-    6: {
-      textFields: [
-        {
-          id: "text1",
-          content: "Mamma",
-          xPercent: 56,
-          yPercent: 35,
-          rotation: -76,
-          fontSize: 24,
-        },
-        {
-          id: "text2",
-          content: "Noah",
-          xPercent: 30,
-          yPercent: 55,
-          rotation: 23,
-          fontSize: 13,
-        },
-        {
-          id: "text3",
-          content: "Vera",
-          xPercent: 45,
-          yPercent: 70,
-          rotation: -58,
-          fontSize: 13,
-        },
-        {
-          id: "text4",
-          content: "Hugo",
-          xPercent: 65,
-          yPercent: 53,
-          rotation: -26,
-          fontSize: 13,
-        },
-        {
-          id: "text5",
-          content: "Alma",
-          xPercent: 38,
-          yPercent: 46,
-          rotation: 15,
-          fontSize: 13,
-        },
-        {
-          id: "text6",
-          content: "Liam",
-          xPercent: 61,
-          yPercent: 69,
-          rotation: 73,
-          fontSize: 13,
-        },
-        {
-          id: "text7",
-          content: "Alice",
-          xPercent: 66,
-          yPercent: 38,
-          rotation: -34,
           fontSize: 13,
         },
       ],
@@ -959,7 +959,6 @@ function createOverlay(field) {
   overlay.style.lineHeight = "1";
   overlay.style.display = "inline-block";
   overlay.style.verticalAlign = "middle";
-  overlay.style.fontSize = `{field.fontSize}px`;
 
   overlay.addEventListener("click", () => selectOverlay(overlay));
 
@@ -982,9 +981,7 @@ function selectOverlay(overlay) {
     selectedOverlay = overlay;
 
     // Highlight corresponding control group
-    const controlGroup = document.querySelector(
-      `[data-field-id="overlay-${fieldId}"]`
-    );
+    const controlGroup = document.querySelector(`[data-field-id="${fieldId}"]`);
     if (controlGroup) {
       controlGroup.classList.add("active");
     }
@@ -993,14 +990,33 @@ function selectOverlay(overlay) {
   }
 }
 
+function updateControlLabels(fieldId) {
+  const template = currentTemplates[currentKids];
+  template.textFields.forEach((field) => {
+    if (field.id !== fieldId) return;
+
+    const controlGroup = document.querySelector(
+      `.text-input-group[data-field-id="${field.id}"]`
+    );
+    if (!controlGroup) return;
+
+    const labels = controlGroup.querySelectorAll(".control-label");
+
+    labels[0].textContent = `X: ${field.xPercent}%`;
+    labels[1].textContent = `Y: ${field.yPercent}%`;
+    labels[2].textContent = `Rotation: ${field.rotation}°`;
+    labels[3].textContent = `Size: ${field.fontSize}px`;
+  });
+}
+
 function updateFieldContent(fieldId, newContent) {
   const template = currentTemplates[currentKids];
   const field = template.textFields.find((f) => f.id === fieldId);
   if (field) {
-    field.content = newContent;
+    field.content = newContent.slice(0, MAX_PERSONALIZATION_CHARS);
     const overlay = textOverlays[fieldId];
     if (overlay) {
-      overlay.textContent = newContent;
+      overlay.textContent = field.content;
     }
   }
 }
@@ -1070,33 +1086,6 @@ function updateOverlayStyle(fieldId) {
     // Update font size and apply dynamic sizing
     overlay.style.fontSize = `${field.fontSize}px`;
   }
-}
-
-function updateControlLabels(fieldId) {
-  const template = currentTemplates[currentKids];
-  template.textFields.forEach((field) => {
-    if (field.id !== fieldId) return;
-
-    const controlGroup = document.querySelector(
-      `.text-input-group[data-field-id="${field.id}"]`
-    );
-    if (!controlGroup) return;
-
-    const labels = controlGroup.querySelectorAll(".control-label");
-
-    if (labels.length >= 5) {
-      labels[0].textContent = `X: ${field.xPercent}%`;
-      labels[1].textContent = `Y: ${field.yPercent}%`;
-      labels[2].textContent = `Rotation: ${field.rotation}°`;
-      labels[3].textContent = `Size: ${field.fontSize}px`;
-      labels[2].textContent = `Size: ${field.fontSize}px`;
-    } else {
-      labels[0].textContent = `X: ${field.xPercent}%`;
-      labels[1].textContent = `Y: ${field.yPercent}%`;
-      labels[2].textContent = `Rotation: ${field.rotation}°`;
-      labels[2].textContent = `Size: ${field.fontSize}px`;
-    }
-  });
 }
 
 // Mouse event handlers for dragging
